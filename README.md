@@ -1,4 +1,4 @@
-## Hi there, <img src="https://pin.it/6L2E5inHi" width="30px"> I am Muneer Abrahams 👋
+## Hi there, <img src="https://github.com/user-attachments/assets/c587ced5-7c0a-4527-8842-0abc9777ff83" width="30px"> I am Muneer Abrahams 👋
 
 <!--
 **Audipunk/Audipunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![waving](https://github.com/user-attachments/assets/c587ced5-7c0a-4527-8842-0abc9777ff83)

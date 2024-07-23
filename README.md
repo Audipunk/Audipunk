@@ -1,5 +1,5 @@
 ## Hi there, <img src="https://github.com/user-attachments/assets/c587ced5-7c0a-4527-8842-0abc9777ff83" width="30px"> I am Muneer Abrahams 👋
---![GitHub followers](https://img.shields.io/github/followers/:user)
+![GitHub followers](https://img.shields.io/github/followers/:user)
 https://img.shields.io/github/followers/:user
 
 

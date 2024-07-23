@@ -1,4 +1,4 @@
-## Hi there, <img src="https://github.com/Audipunk/Audipunk/blob/main/Muneer.jpg" width="30px"> I am Muneer Abrahams 👋
+## Hi there, <img src="https://pin.it/6L2E5inHi" width="30px"> I am Muneer Abrahams 👋
 
 <!--
 **Audipunk/Audipunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ## Hi there, <img src="https://github.com/user-attachments/assets/c587ced5-7c0a-4527-8842-0abc9777ff83" width="30px"> I am Muneer Abrahams 👋
-![GitHub followers](https://img.shields.io/github/followers/user:https://github.com/Audipunk)
-https://img.shields.io/github/followers/:user/Audipunk
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/:Audipunk">
+
 
 
 **Audipunk/Audipunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@
 [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield)](https://circleci.com/gh/facebook/react) [![(Runtime) Build and Test](https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml/badge.svg)](https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml) [![(Compiler) TypeScript](https://github.com/facebook/react/actions/workflows/compiler_typescript.yml/badge.svg?branch=main)](https://github.com/facebook/react/actions/workflows/compiler_typescript.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://legacy.reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
 
-
+Tool Box
 
 <img align="left" alt="java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
@@ -28,6 +28,8 @@
 
 <img align="left" alt="java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
+<img align="left" alt="java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
+
 
 
 
@@ -35,7 +37,6 @@
 ![bootcamp-stamp](https://github.com/user-attachments/assets/84041c0a-6e88-4536-a45f-72f16970c082)
 ![notion-logo](https://github.com/user-attachments/assets/41ba9a8f-cef4-44fd-9349-11be1dd17bcf)
 ![steam-logo](https://github.com/user-attachments/assets/b549af1c-0069-492a-b680-0c6930d49b93)
-![nike-logo](https://github.com/user-attachments/assets/88652d67-9a15-49b2-9317-f3e9c4f40c86)
 ![minecraft-logo](https://github.com/user-attachments/assets/0d014c04-aec9-488b-b6a0-897ed1b689e9)
 ![amazon-logo](https://github.com/user-attachments/assets/4ee0fcde-cee9-4c67-b096-ac2f5e9857d4)
 

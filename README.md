@@ -5,8 +5,8 @@
   <https://www.youtube.com/channel/UCuJEyzAlx4s2IGqxUvRYWbw">  
 <img alt="GitHub followers" src="https://github.com/facebook/react/actions/workflows/runtibuild_and_test.yml/badge.svg/">
     <img alt="npm" src="https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react]> <"https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml/badge.svg/">
-    <https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml> <[![Compiler TypeScript](https://github.com/facebook/react/actions/workflows/compiler_typescript.yml/badge.svg?branch=main)]><(https://github.com/facebook/react/actions/workflows/compiler_typescript.yml)> 
-<[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]><(https://legacy.reactjs.org/docs/how-to-contribute.html#your-first-pull-request)>
+    <https://github.com/facebook/react/actions/workflows/runtime_build_and_test.yml> <[![Compiler TypeScript]https://github.com/facebook/react/actions/workflows/compiler_typescript.yml/badge.svg?branch=main]><https://github.com/facebook/react/actions/workflows/compiler_typescript.yml> 
+<[![PRs Welcome]https://img.shields.io/badge/PRs-welcome-brightgreen.svg]><https://legacy.reactjs.org/docs/how-to-contribute.html#your-first-pull-request>
 
 #
 

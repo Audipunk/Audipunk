@@ -16,6 +16,7 @@
 I have just started my coding journey studdien Software Development at Code Space.
 I am a Software Dev Student with the passion to learn everything I can about the programing world.
 
+![viteconf](https://github.com/user-attachments/assets/96c4f6f9-d163-4953-83e7-3e1da6bb51ff)
 #
 Tool Box
 
@@ -44,7 +45,6 @@ Tool Box
 
 <img align="left" alt="java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />
 
-![bootcamp-stamp](https://github.com/user-attachments/assets/84041c0a-6e88-4536-a45f-72f16970c082)
 ![notion-logo](https://github.com/user-attachments/assets/41ba9a8f-cef4-44fd-9349-11be1dd17bcf)
 ![steam-logo](https://github.com/user-attachments/assets/b549af1c-0069-492a-b680-0c6930d49b93)
 ![minecraft-logo](https://github.com/user-attachments/assets/0d014c04-aec9-488b-b6a0-897ed1b689e9)
@@ -57,7 +57,8 @@ Tool Box
 
 <!--Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently wor![viteconf](https://github.com/user-attachments/assets/eb2b8791-3b8d-4dd1-8c43-6de16a7c5fb8)
+king on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
